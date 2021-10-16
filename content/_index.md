@@ -7,12 +7,10 @@ sections:
     section_id: hero_section
     background_image: images/ps5_horizontal-03.webp
     background_image_opacity: 65
-    content: >
-      # Resurrect your broken console. Bring my console back from the dead
+    content: |
+      # Bring your games console back from the dead!
 
-
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      Breeth new life into your broken games console. 
     actions:
       - title: See all items
         url: /store
