@@ -1,7 +1,6 @@
 ---
 layout: product
 id: '1'
-price: '49.40'
 title: PlayStation 4 HDMI Repair
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
